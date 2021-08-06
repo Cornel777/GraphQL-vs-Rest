@@ -1,1 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2021-08-06T10:07:58.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="tZc1z_CDfUlPQirX3CM6" version="14.9.2" type="github"><diagram id="JKbqIdM3FO0Cpz3SnD94" name="Page-1">lZRNb4MwDIZ/DcdJFMbUXsf6oYlKkzppxykCFzIFzIIpdL9+oZimUdVqO5E8sRP7tY0XxmW/1qIutpiB8gI/673wxQuCmR/OzWcgx5FE0dMIci0zNrJgJ39g8mTaygwax5AQFcnahSlWFaTkMKE1dq7ZHpX7ai1yuAK7VKhr+iEzKkY6j3zLNyDzYnp55vNJKSZjBk0hMuwuULj0wlgj0rgq+xjUIN6ky+i3unF6DkxDRX9xiJNk9dpEyfcyfp9v03zTVp8PAcdGxylhyEz+vEVNBeZYCbW09FljW2Uw3OqbnbVJEGsDZwZ+AdGRiylaQoMKKhWfXkfOyTTY6hTuhMt2Q4wXjpzvGrAE0kdjoEEJkge3hoJbIT/bnV3fUJpQAp/b9nHqPm7aYCr3dAUJnQOxl9XcLC7CsOhUiX9UhQM+CNVyCldl6gpJsKvFSa7OzJ4rsWjqcRr2sh9KdVvzA2iC/q6afBq5opw7vbNzsWBUXIzEwr8tvyOcVcls7VyMotq/S7j8BQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-06T12:19:41.837Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="eioWqcjWAtK84v61YhQF" version="14.9.2" type="github">
+  <diagram id="JKbqIdM3FO0Cpz3SnD94" name="Page-1">
+    <mxGraphModel dx="4044" dy="2344" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" backgroundImage="{&quot;src&quot;:&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png&quot;,&quot;width&quot;:&quot;1200&quot;,&quot;height&quot;:&quot;1200&quot;}" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CLLFJs5LqECT8McgHun_-2" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;labelBackgroundColor=#182E3E;strokeColor=#666666;fontColor=#4D4D4D;fillColor=#f5f5f5;" parent="1" source="CLLFJs5LqECT8McgHun_-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-462" y="-113" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CLLFJs5LqECT8McgHun_-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="-903" y="-190" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="drN-csKsrVhMP1aqmD64-1" value="&lt;font style=&quot;font-size: 50px&quot;&gt;GraphQL API&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=1;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="-782" y="-361" width="306" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="drN-csKsrVhMP1aqmD64-3" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Stateless, client-independent API for exchanging data - with higher query flexibility.&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=1;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="-782" y="-298" width="886" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="drN-csKsrVhMP1aqmD64-4" value="&lt;font style=&quot;font-size: 50px&quot;&gt;REST API&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=1;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="-782" y="-500" width="234" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="drN-csKsrVhMP1aqmD64-5" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Stateless, client-independent API for exchanging data.&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=1;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="-782" y="-442" width="586" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="drN-csKsrVhMP1aqmD64-6" value="&lt;font style=&quot;font-size: 50px&quot;&gt;GraphQL API&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=1;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-500" width="306" height="31" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
